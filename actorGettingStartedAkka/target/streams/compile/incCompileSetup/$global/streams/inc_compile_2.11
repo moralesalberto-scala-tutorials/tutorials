@@ -1,0 +1,238 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$$anonfun$1.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Calculate$.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Listener$$anonfun$receive$3.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Listener.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master$$anonfun$receive$2.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiApproximation$.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiApproximation.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiMessage.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Result$.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Result.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Work$.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Work.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker$$anonfun$calculatePiFor$1.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker$$anonfun$receive$1.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$delayedInit$body.class
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi.class
+binary dependencies:
+3 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /Users/amorales/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$$anonfun$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Calculate$
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Listener
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Listener$$anonfun$receive$3
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Master
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Master$$anonfun$receive$2
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Master$$anonfun$receive$2$$anonfun$applyOrElse$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$PiApproximation
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$PiApproximation$
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$PiMessage
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Result
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Result$
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Work
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Work$
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Worker
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Worker$$anonfun$calculatePiFor$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$Worker$$anonfun$receive$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi$delayedInit$body
+used names:
+103 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> !
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> %
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> &&
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> *
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> +
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> -
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> /
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> <init>
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ==
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> A1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> AbstractFunction1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> AbstractFunction2
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Actor
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ActorRef
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ActorSystem
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> AnyRef
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> App
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> B1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Calculate
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ClassTag
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Double
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Duration
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Function1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Int
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Listener
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Long
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Master
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> None
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Pi
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> PiApproximation
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> PiMessage
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Predef
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Product
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Props
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Result
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> RoundRobinRouter
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ScalaRunTime
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Serializable
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Statics
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> System
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Unit
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Work
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> Worker
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> _toString
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> acc
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> actor
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> actorOf
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> actorRef2Scala
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> akka
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> anyHash
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> apply
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> asInstanceOf
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> augmentString
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> calculate
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> calculatePiFor
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> concurrent
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> context
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> currentTimeMillis
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> doubleHash
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> duration
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> eq
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> finalizeHash
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> foreach
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> format
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> i
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> intWrapper
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> isInstanceOf
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> java
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> lang
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> listener
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> master
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> materializeClassTag
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> millis
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> mix
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> nrOfElements
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> nrOfMessages
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> nrOfResults
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> nrOfResults_=
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> nrOfWorkers
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> package
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> pi
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> pi_=
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> println
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> qual$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> routing
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> runtime
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> scala
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> self
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> sender
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> shutdown
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> start
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> stop
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> system
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> toString
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> typedProductIterator
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> unchecked
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> until
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> value
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> withRouter
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> workerRouter
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> x$1
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> x$2
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> ||
+product stamps:
+20 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$$anonfun$1.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Calculate$.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Listener$$anonfun$receive$3.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Listener.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master$$anonfun$receive$2.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Master.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiApproximation$.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiApproximation.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$PiMessage.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Result$.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Result.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Work$.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Work.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker$$anonfun$calculatePiFor$1.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker$$anonfun$receive$1.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$Worker.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi$delayedInit$body.class -> lastModified(1444311326000)
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/target/scala-2.11/classes/Pi.class -> lastModified(1444311326000)
+source stamps:
+1 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> hash(0ed3370a9f952bf0cf69d8a432aaabe2c2c47200)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406304240000)
+/Users/amorales/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> lastModified(1431413783000)
+/Users/amorales/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/amorales/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.Actor
+/Users/amorales/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMNLp9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPtDQPXQABHNlbGZzcQB+AAsM0KK2dAAHY29udGV4dHVxAH4ACQAAAEdzcQB+AAuno/cudAAGbm90aWZ5c3EAfgALTdaeCHQAB3VuYXBwbHlzcQB+AAu9MVO1dAAIZHVyYXRpb25zcQB+AAsjAAu3dAAHY3VycmllZHNxAH4ACz8BFrN0AAdSZWNlaXZlc3EAfgALZLCR7HQADmNhbGN1bGF0ZVBpRm9yc3EAfgAL0DLQLHQAAnBpc3EAfgAL1mnZEHQABHdhaXRzcQB+AAuhmARadAAGTWFzdGVyc3EAfgALkCq9iXQADmNvcHkkZGVmYXVsdCQyc3EAfgALaLiOy3QADSRhc0luc3RhbmNlT2ZzcQB+AAvSx0bcdAAMbnJPZkVsZW1lbnRzc3EAfgAL5Z9JBXQAB2NvbXBvc2VzcQB+AAsNuylEdAAMcHJvZHVjdEFyaXR5c3EAfgAL/BmignQABmVxdWFsc3NxAH4ACywJi710AAxhc0luc3RhbmNlT2ZzcQB+AAtgYeW/dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAs65kLrdAAPUGlBcHByb3hpbWF0aW9uc3EAfgALi64eOXQADHN5bmNocm9uaXplZHNxAH4AC8TBUiB0AA0kaXNJbnN0YW5jZU9mc3EAfgAL5qZn83QAB2FuZFRoZW5zcQB+AAtXRe0LdAAHcmVjZWl2ZXNxAH4AC8bFWZ50AApwcmVSZXN0YXJ0c3EAfgALUSdi33QABnR1cGxlZHNxAH4AC4KVw5Z0AA1hcm91bmRSZWNlaXZlc3EAfgALa1qtM3QACGNhbkVxdWFsc3EAfgALqv0R1nQAC3Bvc3RSZXN0YXJ0c3EAfgAL69oDT3QABG1haW5zcQB+AAt4lbi+dAAIcG9zdFN0b3BzcQB+AAtfolo/dAANcHJvZHVjdFByZWZpeHNxAH4ACzhwh8p0AAlub3RpZnlBbGxzcQB+AAuzjlE0dAALcmVhZFJlc29sdmVzcQB+AAvg2MfJdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvIO8/LdAACUGlzcQB+AAtivVs4dAAMaXNJbnN0YW5jZU9mc3EAfgALtufbk3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsL2hzvdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAs7G52RdAAITGlzdGVuZXJzcQB+AAusXbg2dAAEV29ya3NxAH4AC3rjmTN0AAY8aW5pdD5zcQB+AAt1ElwzdAAIcHJlU3RhcnRzcQB+AAudA82FdAAJdW5oYW5kbGVkc3EAfgALFKCQp3QACWNhbGN1bGF0ZXNxAH4AC+m8ZnF0AAVhcHBseXNxAH4AC8vz/UJ0AAI9PXNxAH4AC0U2U+90AAVjbG9uZXNxAH4AC6PCchZ0AAlDYWxjdWxhdGVzcQB+AAvd5SP3dAAJUGlNZXNzYWdlc3EAfgALuXYsF3QABGNvcHlzcQB+AAt4cZKndAAGc2VuZGVyc3EAfgALtXGDdHQACHRvU3RyaW5nc3EAfgALEa8t3nQABGFyZ3NzcQB+AAuqBAbWdAALbnJPZlJlc3VsdHNzcQB+AAtM6zCGdAAMd29ya2VyUm91dGVyc3EAfgALAlSq1HQAAiE9c3EAfgALWQ65GXQACGdldENsYXNzc3EAfgALRNyjsXQABldvcmtlcnNxAH4AC3RcuLt0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC/Vygft0AAZSZXN1bHRzcQB+AAuEY8AqdAAFc3RhcnRzcQB+AAtbQgYLdAACbmVzcQB+AAuEE0iZdAAFdmFsdWVzcQB+AAt4M5cedAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALoNMjp3QAAmVxc3EAfgALq64HRHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC3dW3tl0AAtkZWxheWVkSW5pdHNxAH4AC7jB2Q50AAIjI3NxAH4AC0qu+rl0AAhmaW5hbGl6ZXNxAH4ACzfj0jx0AA5wcm9kdWN0RWxlbWVudHNxAH4AC3zrBMh0AAhoYXNoQ29kZXNxAH4ACwbq+gJ0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AVXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AMN4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AMIAcHNxAH4Ax3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCpTAAJaW5oZXJpdGVkcQB+AKlMAAdwYXJlbnRzcQB+AKl4cQB+AMtzcQB+AMIAcHNxAH4Ax3VxAH4ApAAAAABzcQB+AMIAcHNxAH4Ax3VxAH4ApAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AqnEAfgCzdXEAfgC0AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A2HhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDKdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+APJzcQB+ALYAcQB+AEl1cQB+ALgAAAAAc3EAfgDldAAEVW5pdHEAfgDrdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A2HhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Au3QABVBsYWlucQB+AHlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AOZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMpzcQB+AOV0AAVBcnJheXEAfgDrdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AOV0AAZTdHJpbmdzcQB+AOlzcQB+AOx1cQB+AO8AAAADc3EAfgDxdAAEamF2YXNxAH4A8XQABGxhbmdxAH4A9nNxAH4AwgBwc3EAfgDHdXEAfgENAAAABHNxAH4A5XQAA0FwcHEAfgDrc3EAfgDldAALRGVsYXllZEluaXRxAH4A63NxAH4A5XQABk9iamVjdHEAfgERc3EAfgDldAADQW55cQB+AOt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEepxZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABcL1VzZXJzL2Ftb3JhbGVzL3NjYWxhL3NjYWxhX3R1dG9yaWFsc19yZXBvL2FjdG9yR2V0dGluZ1N0YXJ0ZWRBa2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQO0zcKn5Ur8M9p2KQyqqviwsRyAA==
+external apis:
+0 items
+source infos:
+1 items
+/Users/amorales/scala/scala_tutorials_repo/actorGettingStartedAkka/pi.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEepxZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9Vc2Vycy9hbW9yYWxlcy9zY2FsYS9zY2FsYV90dXRvcmlhbHNfcmVwby9hY3RvckdldHRpbmdTdGFydGVkQWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
